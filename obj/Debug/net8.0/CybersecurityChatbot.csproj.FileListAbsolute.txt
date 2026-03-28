@@ -1,4 +1,3 @@
-C:\Users\Student\source\repos\CybersecurityChatbot\bin\Debug\net8.0\greeting.wav
 C:\Users\Student\source\repos\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.exe
 C:\Users\Student\source\repos\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.deps.json
 C:\Users\Student\source\repos\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.runtimeconfig.json
@@ -17,3 +16,5 @@ C:\Users\Student\source\repos\CybersecurityChatbot\obj\Debug\net8.0\refint\Cyber
 C:\Users\Student\source\repos\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.pdb
 C:\Users\Student\source\repos\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.genruntimeconfig.cache
 C:\Users\Student\source\repos\CybersecurityChatbot\obj\Debug\net8.0\ref\CybersecurityChatbot.dll
+C:\Users\Student\source\repos\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.sourcelink.json
+C:\Users\Student\source\repos\CybersecurityChatbot\bin\Debug\net8.0\greeting.wav

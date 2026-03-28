@@ -28,7 +28,7 @@ namespace CybersecurityChatbot
             Run();
         }
 
-        // Task 1: Voice greeting
+        // Task 1:Plays voice greeting on startup
         private void PlayVoiceGreeting()
         {
             try
