@@ -136,7 +136,7 @@ namespace CybersecurityChatbot
             }
         }
 
-        // Task 4 & 5: Response system with validation
+        // Response system with validation
         private string GetResponse(string userInput)
         {
             if (string.IsNullOrWhiteSpace(userInput))
