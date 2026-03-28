@@ -71,7 +71,7 @@ namespace CybersecurityChatbot
             Console.ResetColor();
         }
 
-        // Task 3: Get user name with validation (Purple/Violet accents)
+        //  Get user name with validation
         private string GetUserName()
         {
             Console.ForegroundColor = ConsoleColor.Magenta;
