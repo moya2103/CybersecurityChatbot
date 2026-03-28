@@ -20,8 +20,8 @@ namespace CybersecurityChatbot
         // Public method to start the bot
         public void Start()
         {
-            PlayVoiceGreeting(); //Added voice greeting funcionality
-            DisplayAsciiArt();
+            PlayVoiceGreeting(); //Plays voice greeting audio
+            DisplayAsciiArt(); //Displays ASCII art logo with header
             UserName = GetUserName();
             DisplayWelcomeMessage();
             ShowHelp();
