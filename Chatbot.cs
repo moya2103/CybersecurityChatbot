@@ -22,7 +22,7 @@ namespace CybersecurityChatbot
         {
             PlayVoiceGreeting(); //Plays voice greeting audio
             DisplayAsciiArt(); //Displays ASCII art logo with header
-            UserName = GetUserName();
+            UserName = GetUserName(); //Gets user name input and validation
             DisplayWelcomeMessage();
             ShowHelp();
             Run();
